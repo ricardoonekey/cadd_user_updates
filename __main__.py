@@ -23,6 +23,9 @@ if creation_file.is_file() and updates_file.is_file():
 
     # Creation of the user
     try:
+        # Load queues data fro JSON file
+        with open("queues.json", 'r', encoding='utf-8') as json_file:
+            jdata = json.load(json_file)
         found = False
         with open(creation_file, mode='r', encoding='utf-8') as file:
             reader = csv.reader(file)
@@ -35,14 +38,16 @@ if creation_file.is_file() and updates_file.is_file():
                     print(f"Fecha de creación: {row[3]}")
                     if data["features"].get("matching"):
                         # Print queues if exists
-                        if data["features"]["matching"]["queues"]:
+                        if data["features"]["matching"].get("queues"):
                             print(f"Colas:")
                             for cola in data["features"]["matching"]["queues"]:
-                                print(f"- {cola["queueId"]}")
+                                for queue_data in jdata:
+                                    if queue_data["queueId"] == cola["queueId"]:
+                                        print(f"- {queue_data["name"]}")
                         else:
                             print(f"There are not queues registered at creation time")
                         # Print attributes if exists
-                        if data["features"]["matching"]["attributes"]:
+                        if data["features"]["matching"].get("attributes"):
                             print(f"Atributos:")
                             for attribute in data["features"]["matching"]["attributes"]:
                                 print(f"- {attribute}")

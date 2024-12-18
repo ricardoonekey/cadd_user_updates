@@ -1,0 +1,3979 @@
+[
+    {
+        "queueId": "95e125a2-18b2-44ba-8a09-58e7129c5e3a",
+        "channelAfterContactWork": [
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Chat",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Email",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Messaging",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Voice",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            }
+        ],
+        "rona": [
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 120,
+                "channel": "Chat",
+                "queueTimer": 120
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Email",
+                "queueTimer": 30
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Messaging",
+                "queueTimer": 30
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Voice",
+                "queueTimer": 30
+            }
+        ],
+        "name": "Angel Virtual",
+        "afterContactWork": false,
+        "defaultAccountQueue": false
+    },
+    {
+        "queueId": "f36b8aff-79a9-4781-8d94-3fa5745300a9",
+        "channelAfterContactWork": [
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Chat",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DEFAULT",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Email",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DEFAULT",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Messaging",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Voice",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DEFAULT",
+                "accountMode": "DISABLED"
+            }
+        ],
+        "rona": [
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 120,
+                "channel": "Chat",
+                "queueTimer": 120
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Email",
+                "queueTimer": 30
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Messaging",
+                "queueTimer": 30
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Voice",
+                "queueTimer": 30
+            }
+        ],
+        "name": "Asistencia Vial",
+        "afterContactWork": false,
+        "defaultAccountQueue": false
+    },
+    {
+        "queueId": "068b7b8c-8fda-410d-96c1-a4424c59dfaf",
+        "channelAfterContactWork": [
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Chat",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Email",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Messaging",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Voice",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            }
+        ],
+        "rona": [
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 120,
+                "channel": "Chat",
+                "queueTimer": 120
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Email",
+                "queueTimer": 30
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Messaging",
+                "queueTimer": 30
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Voice",
+                "queueTimer": 30
+            }
+        ],
+        "name": "Atencion Digital",
+        "afterContactWork": false,
+        "defaultAccountQueue": false
+    },
+    {
+        "queueId": "23ee0d8b-1c77-423b-a095-e74e30a0c231",
+        "channelAfterContactWork": [
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Chat",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Email",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Messaging",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Voice",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            }
+        ],
+        "rona": [
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 120,
+                "channel": "Chat",
+                "queueTimer": 120
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Email",
+                "queueTimer": 30
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Messaging",
+                "queueTimer": 30
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Voice",
+                "queueTimer": 30
+            }
+        ],
+        "name": "Autos nuevos",
+        "afterContactWork": false,
+        "defaultAccountQueue": false
+    },
+    {
+        "queueId": "9b209848-966e-421e-a5df-927f9ad41ec6",
+        "channelAfterContactWork": [
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Chat",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Email",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Messaging",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Voice",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            }
+        ],
+        "rona": [
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 120,
+                "channel": "Chat",
+                "queueTimer": 120
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Email",
+                "queueTimer": 30
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Messaging",
+                "queueTimer": 30
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Voice",
+                "queueTimer": 30
+            }
+        ],
+        "name": "Autos Seminuevos",
+        "afterContactWork": false,
+        "defaultAccountQueue": false
+    },
+    {
+        "queueId": "0b2df680-d1e2-4470-972d-591266cefab5",
+        "channelAfterContactWork": [
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Chat",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DEFAULT",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Email",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DEFAULT",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Messaging",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DEFAULT",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Voice",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DEFAULT",
+                "accountMode": "DISABLED"
+            }
+        ],
+        "rona": [
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 120,
+                "channel": "Chat",
+                "queueTimer": 120
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Email",
+                "queueTimer": 30
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Messaging",
+                "queueTimer": 30
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Voice",
+                "queueTimer": 30
+            }
+        ],
+        "name": "Borrar",
+        "afterContactWork": false,
+        "defaultAccountQueue": false
+    },
+    {
+        "queueId": "25a6e4ba-4600-455e-b1df-369720c20709",
+        "channelAfterContactWork": [
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Chat",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Email",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Messaging",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Voice",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            }
+        ],
+        "rona": [
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 120,
+                "channel": "Chat",
+                "queueTimer": 120
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Email",
+                "queueTimer": 30
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Messaging",
+                "queueTimer": 30
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Voice",
+                "queueTimer": 30
+            }
+        ],
+        "name": "CADD BYD",
+        "afterContactWork": false,
+        "defaultAccountQueue": false
+    },
+    {
+        "queueId": "639eb178-26c9-4128-b6c8-6e2f186e15e7",
+        "channelAfterContactWork": [
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Chat",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Email",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Messaging",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Voice",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            }
+        ],
+        "rona": [
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 120,
+                "channel": "Chat",
+                "queueTimer": 120
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Email",
+                "queueTimer": 30
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Messaging",
+                "queueTimer": 30
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Voice",
+                "queueTimer": 30
+            }
+        ],
+        "name": "CADD Chat",
+        "afterContactWork": false,
+        "defaultAccountQueue": false
+    },
+    {
+        "queueId": "5eed561f-57d1-4410-9118-64ceb498af10",
+        "channelAfterContactWork": [
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Chat",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Email",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Messaging",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Voice",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            }
+        ],
+        "rona": [
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 120,
+                "channel": "Chat",
+                "queueTimer": 120
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Email",
+                "queueTimer": 30
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Messaging",
+                "queueTimer": 30
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Voice",
+                "queueTimer": 30
+            }
+        ],
+        "name": "CADD Chirey",
+        "afterContactWork": false,
+        "defaultAccountQueue": false
+    },
+    {
+        "queueId": "a937cdc6-d4b8-4c2e-9c07-3e20bf218855",
+        "channelAfterContactWork": [
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Chat",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Email",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Messaging",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Voice",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            }
+        ],
+        "rona": [
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 120,
+                "channel": "Chat",
+                "queueTimer": 120
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Email",
+                "queueTimer": 30
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Messaging",
+                "queueTimer": 30
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Voice",
+                "queueTimer": 30
+            }
+        ],
+        "name": "CADD GAC",
+        "afterContactWork": false,
+        "defaultAccountQueue": false
+    },
+    {
+        "queueId": "ab51adb6-5386-4a42-921f-960e4661d412",
+        "channelAfterContactWork": [
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Chat",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Email",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Messaging",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Voice",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            }
+        ],
+        "rona": [
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 120,
+                "channel": "Chat",
+                "queueTimer": 120
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Email",
+                "queueTimer": 30
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Messaging",
+                "queueTimer": 30
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Voice",
+                "queueTimer": 30
+            }
+        ],
+        "name": "CADD Honda",
+        "afterContactWork": false,
+        "defaultAccountQueue": false
+    },
+    {
+        "queueId": "2a1af3d7-6d33-4521-a056-468fcc929c5a",
+        "channelAfterContactWork": [
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Chat",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Email",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Messaging",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Voice",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            }
+        ],
+        "rona": [
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 120,
+                "channel": "Chat",
+                "queueTimer": 120
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Email",
+                "queueTimer": 30
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Messaging",
+                "queueTimer": 30
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Voice",
+                "queueTimer": 30
+            }
+        ],
+        "name": "CADD Hyundai",
+        "afterContactWork": false,
+        "defaultAccountQueue": false
+    },
+    {
+        "queueId": "8ae29067-ca3a-4425-a6ce-ab6aa8773096",
+        "channelAfterContactWork": [
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Chat",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Email",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Messaging",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Voice",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            }
+        ],
+        "rona": [
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 120,
+                "channel": "Chat",
+                "queueTimer": 120
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Email",
+                "queueTimer": 30
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Messaging",
+                "queueTimer": 30
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Voice",
+                "queueTimer": 30
+            }
+        ],
+        "name": "CADD KIA",
+        "afterContactWork": false,
+        "defaultAccountQueue": false
+    },
+    {
+        "queueId": "d686bdbd-03fd-482e-ac33-0512c45be57d",
+        "channelAfterContactWork": [
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Chat",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Email",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Messaging",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Voice",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            }
+        ],
+        "rona": [
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 120,
+                "channel": "Chat",
+                "queueTimer": 120
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Email",
+                "queueTimer": 30
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Messaging",
+                "queueTimer": 30
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Voice",
+                "queueTimer": 30
+            }
+        ],
+        "name": "CADD Toyota",
+        "afterContactWork": false,
+        "defaultAccountQueue": false
+    },
+    {
+        "queueId": "b49ff94d-088a-4e91-9a28-9faee6c4f2bf",
+        "channelAfterContactWork": [
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Chat",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Email",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Messaging",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Voice",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            }
+        ],
+        "rona": [
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 120,
+                "channel": "Chat",
+                "queueTimer": 120
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Email",
+                "queueTimer": 30
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Messaging",
+                "queueTimer": 30
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Voice",
+                "queueTimer": 30
+            }
+        ],
+        "name": "Citas a Servicio",
+        "afterContactWork": false,
+        "defaultAccountQueue": false
+    },
+    {
+        "queueId": "5a4cf1e8-637f-476e-8154-295b036b4ba7",
+        "channelAfterContactWork": [
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Chat",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Email",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Messaging",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Voice",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            }
+        ],
+        "rona": [
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 120,
+                "channel": "Chat",
+                "queueTimer": 120
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Email",
+                "queueTimer": 30
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Messaging",
+                "queueTimer": 30
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Voice",
+                "queueTimer": 30
+            }
+        ],
+        "name": "Comprar un Auto",
+        "afterContactWork": false,
+        "defaultAccountQueue": false
+    },
+    {
+        "queueId": "82caf923-a443-4e78-b189-32882bd9261a",
+        "channelAfterContactWork": [
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Chat",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Email",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Messaging",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Voice",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            }
+        ],
+        "rona": [
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 120,
+                "channel": "Chat",
+                "queueTimer": 120
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Email",
+                "queueTimer": 30
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Messaging",
+                "queueTimer": 30
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Voice",
+                "queueTimer": 30
+            }
+        ],
+        "name": "Comprobante de Pago",
+        "afterContactWork": false,
+        "defaultAccountQueue": false
+    },
+    {
+        "queueId": "e41a8639-6ee5-4396-9bbb-820d78a6607d",
+        "channelAfterContactWork": [
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Chat",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Email",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Messaging",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Voice",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            }
+        ],
+        "rona": [
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 120,
+                "channel": "Chat",
+                "queueTimer": 120
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Email",
+                "queueTimer": 30
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Messaging",
+                "queueTimer": 30
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Voice",
+                "queueTimer": 30
+            }
+        ],
+        "name": "Cotizar Poliza",
+        "afterContactWork": false,
+        "defaultAccountQueue": false
+    },
+    {
+        "queueId": "7238bcdd-6eec-48c1-8766-4740755c21e8",
+        "channelAfterContactWork": [
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Chat",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Email",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Messaging",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Voice",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            }
+        ],
+        "rona": [
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 120,
+                "channel": "Chat",
+                "queueTimer": 120
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Email",
+                "queueTimer": 30
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Messaging",
+                "queueTimer": 30
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Voice",
+                "queueTimer": 30
+            }
+        ],
+        "name": "Cotizar refacción",
+        "afterContactWork": false,
+        "defaultAccountQueue": false
+    },
+    {
+        "queueId": "1d475189-6e1d-4d34-804f-05bff00d588f",
+        "channelAfterContactWork": [
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Chat",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Email",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Messaging",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Voice",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            }
+        ],
+        "rona": [
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 120,
+                "channel": "Chat",
+                "queueTimer": 120
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Email",
+                "queueTimer": 30
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Messaging",
+                "queueTimer": 30
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Voice",
+                "queueTimer": 30
+            }
+        ],
+        "name": "DAF",
+        "afterContactWork": false,
+        "defaultAccountQueue": false
+    },
+    {
+        "queueId": "2a7c477d-d645-4bba-a96d-24c02f951fb8",
+        "channelAfterContactWork": [
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Chat",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Email",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Messaging",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Voice",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            }
+        ],
+        "rona": [
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 120,
+                "channel": "Chat",
+                "queueTimer": 120
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Email",
+                "queueTimer": 30
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Messaging",
+                "queueTimer": 30
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Voice",
+                "queueTimer": 30
+            }
+        ],
+        "name": "Dalton Kia Carretera 57",
+        "afterContactWork": false,
+        "defaultAccountQueue": false
+    },
+    {
+        "queueId": "ea4eb77d-b256-4c2e-bd14-a21438ecc2c2",
+        "channelAfterContactWork": [
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Chat",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Email",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Messaging",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Voice",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            }
+        ],
+        "rona": [
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 120,
+                "channel": "Chat",
+                "queueTimer": 120
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Email",
+                "queueTimer": 30
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Messaging",
+                "queueTimer": 30
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Voice",
+                "queueTimer": 30
+            }
+        ],
+        "name": "Dalton Kia Country",
+        "afterContactWork": false,
+        "defaultAccountQueue": false
+    },
+    {
+        "queueId": "1109e2ff-d274-47c9-b26b-7979f0718130",
+        "channelAfterContactWork": [
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Chat",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Email",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Messaging",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Voice",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            }
+        ],
+        "rona": [
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 120,
+                "channel": "Chat",
+                "queueTimer": 120
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Email",
+                "queueTimer": 30
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Messaging",
+                "queueTimer": 30
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Voice",
+                "queueTimer": 30
+            }
+        ],
+        "name": "Dalton Kia Lopez Mateos",
+        "afterContactWork": false,
+        "defaultAccountQueue": false
+    },
+    {
+        "queueId": "ca8815fd-cda2-447a-a34d-4d5a846ea310",
+        "channelAfterContactWork": [
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Chat",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Email",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Messaging",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Voice",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            }
+        ],
+        "rona": [
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 120,
+                "channel": "Chat",
+                "queueTimer": 120
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Email",
+                "queueTimer": 30
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Messaging",
+                "queueTimer": 30
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Voice",
+                "queueTimer": 30
+            }
+        ],
+        "name": "Dalton Kia Mariano Escobedo",
+        "afterContactWork": false,
+        "defaultAccountQueue": false
+    },
+    {
+        "queueId": "751679f6-175d-409e-9595-8c7b0e55fec3",
+        "channelAfterContactWork": [
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Chat",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Email",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Messaging",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Voice",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            }
+        ],
+        "rona": [
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 120,
+                "channel": "Chat",
+                "queueTimer": 120
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Email",
+                "queueTimer": 30
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Messaging",
+                "queueTimer": 30
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Voice",
+                "queueTimer": 30
+            }
+        ],
+        "name": "Dalton Kia Polanco",
+        "afterContactWork": false,
+        "defaultAccountQueue": false
+    },
+    {
+        "queueId": "7b015dca-4694-472b-b221-5911e23b140a",
+        "channelAfterContactWork": [
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Chat",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Email",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Messaging",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Voice",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            }
+        ],
+        "rona": [
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 120,
+                "channel": "Chat",
+                "queueTimer": 120
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Email",
+                "queueTimer": 30
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Messaging",
+                "queueTimer": 30
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Voice",
+                "queueTimer": 30
+            }
+        ],
+        "name": "Dalton kia Rio San Joaquin",
+        "afterContactWork": false,
+        "defaultAccountQueue": false
+    },
+    {
+        "queueId": "c14db243-ad53-4f48-bcde-91726bfe8edc",
+        "channelAfterContactWork": [
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Chat",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Email",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Messaging",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Voice",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            }
+        ],
+        "rona": [
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 120,
+                "channel": "Chat",
+                "queueTimer": 120
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Email",
+                "queueTimer": 30
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Messaging",
+                "queueTimer": 30
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Voice",
+                "queueTimer": 30
+            }
+        ],
+        "name": "Default",
+        "description": "Default queue for this account",
+        "afterContactWork": false,
+        "defaultAccountQueue": true
+    },
+    {
+        "queueId": "8819b0e5-7c97-4293-987c-610bb6a328e1",
+        "channelAfterContactWork": [
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Chat",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Email",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Messaging",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Voice",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            }
+        ],
+        "rona": [
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 120,
+                "channel": "Chat",
+                "queueTimer": 120
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Email",
+                "queueTimer": 30
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Messaging",
+                "queueTimer": 30
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Voice",
+                "queueTimer": 30
+            }
+        ],
+        "name": "Dimofi",
+        "afterContactWork": false,
+        "defaultAccountQueue": false
+    },
+    {
+        "queueId": "a13f3edb-0869-4ff7-9b12-4902e8232e94",
+        "channelAfterContactWork": [
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Chat",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Email",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Messaging",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Voice",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            }
+        ],
+        "rona": [
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 120,
+                "channel": "Chat",
+                "queueTimer": 120
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Email",
+                "queueTimer": 30
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Messaging",
+                "queueTimer": 30
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Voice",
+                "queueTimer": 30
+            }
+        ],
+        "name": "Encuesta Atencion",
+        "afterContactWork": false,
+        "defaultAccountQueue": false
+    },
+    {
+        "queueId": "3bb26574-5d45-4d65-93dc-7759c9c7fe24",
+        "channelAfterContactWork": [
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Chat",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Email",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Messaging",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Voice",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            }
+        ],
+        "rona": [
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 120,
+                "channel": "Chat",
+                "queueTimer": 120
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Email",
+                "queueTimer": 30
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Messaging",
+                "queueTimer": 30
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Voice",
+                "queueTimer": 30
+            }
+        ],
+        "name": "Encuesta Citas",
+        "afterContactWork": false,
+        "defaultAccountQueue": false
+    },
+    {
+        "queueId": "d050002b-eca6-48e9-bc2f-d50afba49aac",
+        "channelAfterContactWork": [
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Chat",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Email",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Messaging",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Voice",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            }
+        ],
+        "rona": [
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 120,
+                "channel": "Chat",
+                "queueTimer": 120
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Email",
+                "queueTimer": 30
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Messaging",
+                "queueTimer": 30
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Voice",
+                "queueTimer": 30
+            }
+        ],
+        "name": "Escalacion a Supervisor",
+        "afterContactWork": false,
+        "defaultAccountQueue": false
+    },
+    {
+        "queueId": "81dc9994-6957-46e0-8fc0-be61a7b436da",
+        "channelAfterContactWork": [
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Chat",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Email",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Messaging",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Voice",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            }
+        ],
+        "rona": [
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 120,
+                "channel": "Chat",
+                "queueTimer": 120
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Email",
+                "queueTimer": 30
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Messaging",
+                "queueTimer": 30
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Voice",
+                "queueTimer": 30
+            }
+        ],
+        "name": "Estatus refacción",
+        "afterContactWork": false,
+        "defaultAccountQueue": false
+    },
+    {
+        "queueId": "9831f4bd-ee02-4256-b6fe-ec6a72ffba3a",
+        "channelAfterContactWork": [
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Chat",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Email",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Messaging",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Voice",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            }
+        ],
+        "rona": [
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 120,
+                "channel": "Chat",
+                "queueTimer": 120
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Email",
+                "queueTimer": 30
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Messaging",
+                "queueTimer": 30
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Voice",
+                "queueTimer": 30
+            }
+        ],
+        "name": "Estatus Unidad",
+        "afterContactWork": false,
+        "defaultAccountQueue": false
+    },
+    {
+        "queueId": "edcf8467-a248-442e-81b1-a328b6c658e4",
+        "channelAfterContactWork": [
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Chat",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Email",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Messaging",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Voice",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            }
+        ],
+        "rona": [
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 120,
+                "channel": "Chat",
+                "queueTimer": 120
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Email",
+                "queueTimer": 30
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Messaging",
+                "queueTimer": 30
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Voice",
+                "queueTimer": 30
+            }
+        ],
+        "name": "Existencia Unidades",
+        "afterContactWork": false,
+        "defaultAccountQueue": false
+    },
+    {
+        "queueId": "917000f2-576f-487b-a566-2108873c0bbb",
+        "channelAfterContactWork": [
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Chat",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DEFAULT",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Email",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DEFAULT",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Messaging",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Voice",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DEFAULT",
+                "accountMode": "DISABLED"
+            }
+        ],
+        "rona": [
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 120,
+                "channel": "Chat",
+                "queueTimer": 120
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Email",
+                "queueTimer": 30
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Messaging",
+                "queueTimer": 30
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Voice",
+                "queueTimer": 30
+            }
+        ],
+        "name": "Facebook",
+        "afterContactWork": false,
+        "defaultAccountQueue": false
+    },
+    {
+        "queueId": "6eb30820-d334-406d-bdfb-f87589a2b843",
+        "channelAfterContactWork": [
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Chat",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Email",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Messaging",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Voice",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            }
+        ],
+        "rona": [
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 120,
+                "channel": "Chat",
+                "queueTimer": 120
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Email",
+                "queueTimer": 30
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Messaging",
+                "queueTimer": 30
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Voice",
+                "queueTimer": 30
+            }
+        ],
+        "name": "Factura auto nuevo",
+        "afterContactWork": false,
+        "defaultAccountQueue": false
+    },
+    {
+        "queueId": "9ccc5e04-8682-4f51-9033-8666f60a8452",
+        "channelAfterContactWork": [
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Chat",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Email",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Messaging",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Voice",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            }
+        ],
+        "rona": [
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 120,
+                "channel": "Chat",
+                "queueTimer": 120
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Email",
+                "queueTimer": 30
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Messaging",
+                "queueTimer": 30
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Voice",
+                "queueTimer": 30
+            }
+        ],
+        "name": "Facturación",
+        "afterContactWork": false,
+        "defaultAccountQueue": false
+    },
+    {
+        "queueId": "2d46e771-f653-4640-864e-3238bf640b2b",
+        "channelAfterContactWork": [
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Chat",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Email",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Messaging",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Voice",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            }
+        ],
+        "rona": [
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 120,
+                "channel": "Chat",
+                "queueTimer": 120
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Email",
+                "queueTimer": 30
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Messaging",
+                "queueTimer": 30
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Voice",
+                "queueTimer": 30
+            }
+        ],
+        "name": "Garantia Extendida",
+        "afterContactWork": false,
+        "defaultAccountQueue": false
+    },
+    {
+        "queueId": "a76c6751-7771-4369-836f-b0acc3433da8",
+        "channelAfterContactWork": [
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Chat",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Email",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Messaging",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Voice",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            }
+        ],
+        "rona": [
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 120,
+                "channel": "Chat",
+                "queueTimer": 120
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Email",
+                "queueTimer": 30
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Messaging",
+                "queueTimer": 30
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Voice",
+                "queueTimer": 30
+            }
+        ],
+        "name": "Garantia o Reclamo",
+        "afterContactWork": false,
+        "defaultAccountQueue": false
+    },
+    {
+        "queueId": "cb10925e-5836-4a6a-9fae-be0a8eaa40b1",
+        "channelAfterContactWork": [
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Chat",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Email",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Messaging",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Voice",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            }
+        ],
+        "rona": [
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 120,
+                "channel": "Chat",
+                "queueTimer": 120
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Email",
+                "queueTimer": 30
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Messaging",
+                "queueTimer": 30
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Voice",
+                "queueTimer": 30
+            }
+        ],
+        "name": "Horarios o Ubicacion",
+        "afterContactWork": false,
+        "defaultAccountQueue": false
+    },
+    {
+        "queueId": "b8f67490-4db3-421b-81a1-f131c83a6fa7",
+        "channelAfterContactWork": [
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Chat",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Email",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Messaging",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Voice",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            }
+        ],
+        "rona": [
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 120,
+                "channel": "Chat",
+                "queueTimer": 120
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Email",
+                "queueTimer": 30
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Messaging",
+                "queueTimer": 30
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Voice",
+                "queueTimer": 30
+            }
+        ],
+        "name": "IMMI",
+        "afterContactWork": false,
+        "defaultAccountQueue": false
+    },
+    {
+        "queueId": "876e7082-39c1-4341-97b7-12e1f24699ac",
+        "channelAfterContactWork": [
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Chat",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DEFAULT",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Email",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DEFAULT",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Messaging",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DEFAULT",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Voice",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DEFAULT",
+                "accountMode": "DISABLED"
+            }
+        ],
+        "rona": [
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 120,
+                "channel": "Chat",
+                "queueTimer": 120
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Email",
+                "queueTimer": 30
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Messaging",
+                "queueTimer": 30
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Voice",
+                "queueTimer": 30
+            }
+        ],
+        "name": "Motos",
+        "description": "Queue for motocycles. Currently just Dimofi added",
+        "afterContactWork": false,
+        "defaultAccountQueue": false
+    },
+    {
+        "queueId": "d9b72f93-de0a-4b4c-b57c-13cead00d9c4",
+        "channelAfterContactWork": [
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Chat",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Email",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Messaging",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Voice",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            }
+        ],
+        "rona": [
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 120,
+                "channel": "Chat",
+                "queueTimer": 120
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Email",
+                "queueTimer": 30
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Messaging",
+                "queueTimer": 30
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Voice",
+                "queueTimer": 30
+            }
+        ],
+        "name": "Otro",
+        "afterContactWork": false,
+        "defaultAccountQueue": false
+    },
+    {
+        "queueId": "de9a8561-ba41-4593-9ded-43abb2f3e91f",
+        "channelAfterContactWork": [
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Chat",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Email",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Messaging",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Voice",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            }
+        ],
+        "rona": [
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 120,
+                "channel": "Chat",
+                "queueTimer": 120
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Email",
+                "queueTimer": 30
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Messaging",
+                "queueTimer": 30
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Voice",
+                "queueTimer": 30
+            }
+        ],
+        "name": "OutboundQueue",
+        "description": "Queue to be used in an Preview Outbound campaign",
+        "afterContactWork": false,
+        "defaultAccountQueue": false
+    },
+    {
+        "queueId": "ca611293-087a-4950-a5a3-afec850ac55e",
+        "channelAfterContactWork": [
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Chat",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Email",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Messaging",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Voice",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            }
+        ],
+        "rona": [
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 120,
+                "channel": "Chat",
+                "queueTimer": 120
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Email",
+                "queueTimer": 30
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Messaging",
+                "queueTimer": 30
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Voice",
+                "queueTimer": 30
+            }
+        ],
+        "name": "Polizas de Seguros",
+        "afterContactWork": false,
+        "defaultAccountQueue": false
+    },
+    {
+        "queueId": "3705ec0e-7710-41d4-8217-3a0f097931b3",
+        "channelAfterContactWork": [
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Chat",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Email",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Messaging",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Voice",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            }
+        ],
+        "rona": [
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 120,
+                "channel": "Chat",
+                "queueTimer": 120
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Email",
+                "queueTimer": 30
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Messaging",
+                "queueTimer": 30
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Voice",
+                "queueTimer": 30
+            }
+        ],
+        "name": "Proactiva Honda CDMX",
+        "afterContactWork": false,
+        "defaultAccountQueue": false
+    },
+    {
+        "queueId": "7d110cff-4814-45f2-ad83-b1a1abfc0e3c",
+        "channelAfterContactWork": [
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Chat",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Email",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Messaging",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Voice",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            }
+        ],
+        "rona": [
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 120,
+                "channel": "Chat",
+                "queueTimer": 120
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Email",
+                "queueTimer": 30
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Messaging",
+                "queueTimer": 30
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Voice",
+                "queueTimer": 30
+            }
+        ],
+        "name": "Proactiva Honda GDL",
+        "afterContactWork": false,
+        "defaultAccountQueue": false
+    },
+    {
+        "queueId": "129a03e3-2fd2-47db-b5d3-720af3b2f999",
+        "channelAfterContactWork": [
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Chat",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Email",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Messaging",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Voice",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            }
+        ],
+        "rona": [
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 120,
+                "channel": "Chat",
+                "queueTimer": 120
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Email",
+                "queueTimer": 30
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Messaging",
+                "queueTimer": 30
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Voice",
+                "queueTimer": 30
+            }
+        ],
+        "name": "Proactiva Honda SLP",
+        "afterContactWork": false,
+        "defaultAccountQueue": false
+    },
+    {
+        "queueId": "c0a97c2e-8c94-4e87-bfd5-964c675abf4b",
+        "channelAfterContactWork": [
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Chat",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Email",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Messaging",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Voice",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            }
+        ],
+        "rona": [
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 120,
+                "channel": "Chat",
+                "queueTimer": 120
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Email",
+                "queueTimer": 30
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Messaging",
+                "queueTimer": 30
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Voice",
+                "queueTimer": 30
+            }
+        ],
+        "name": "Proactiva Hyundai",
+        "afterContactWork": false,
+        "defaultAccountQueue": false
+    },
+    {
+        "queueId": "4b7e6c08-a15f-45dd-8409-02719d94cbb8",
+        "channelAfterContactWork": [
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Chat",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Email",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Messaging",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Voice",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            }
+        ],
+        "rona": [
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 120,
+                "channel": "Chat",
+                "queueTimer": 120
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Email",
+                "queueTimer": 30
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Messaging",
+                "queueTimer": 30
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Voice",
+                "queueTimer": 30
+            }
+        ],
+        "name": "Proactiva KIA CDMX",
+        "afterContactWork": false,
+        "defaultAccountQueue": false
+    },
+    {
+        "queueId": "f34e6284-9b12-43ff-9029-bdc264b335e4",
+        "channelAfterContactWork": [
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Chat",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Email",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Messaging",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Voice",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            }
+        ],
+        "rona": [
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 120,
+                "channel": "Chat",
+                "queueTimer": 120
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Email",
+                "queueTimer": 30
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Messaging",
+                "queueTimer": 30
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Voice",
+                "queueTimer": 30
+            }
+        ],
+        "name": "Proactiva KIA GDL",
+        "afterContactWork": false,
+        "defaultAccountQueue": false
+    },
+    {
+        "queueId": "45e5e007-3f65-4052-a7d2-a0c05ccc30fa",
+        "channelAfterContactWork": [
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Chat",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Email",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Messaging",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Voice",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            }
+        ],
+        "rona": [
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 120,
+                "channel": "Chat",
+                "queueTimer": 120
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Email",
+                "queueTimer": 30
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Messaging",
+                "queueTimer": 30
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Voice",
+                "queueTimer": 30
+            }
+        ],
+        "name": "Proactiva KIA SLP",
+        "afterContactWork": false,
+        "defaultAccountQueue": false
+    },
+    {
+        "queueId": "fba9ab9c-cf3d-4514-bbab-a6abfee0c7e8",
+        "channelAfterContactWork": [
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Chat",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Email",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Messaging",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Voice",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            }
+        ],
+        "rona": [
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 120,
+                "channel": "Chat",
+                "queueTimer": 120
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Email",
+                "queueTimer": 30
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Messaging",
+                "queueTimer": 30
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Voice",
+                "queueTimer": 30
+            }
+        ],
+        "name": "Proactiva Toyota GDL",
+        "afterContactWork": false,
+        "defaultAccountQueue": false
+    },
+    {
+        "queueId": "61281c63-729f-4361-a1ed-4134ec215241",
+        "channelAfterContactWork": [
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Chat",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Email",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Messaging",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Voice",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            }
+        ],
+        "rona": [
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 120,
+                "channel": "Chat",
+                "queueTimer": 120
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Email",
+                "queueTimer": 30
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Messaging",
+                "queueTimer": 30
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Voice",
+                "queueTimer": 30
+            }
+        ],
+        "name": "Proactiva Toyota SLP",
+        "afterContactWork": false,
+        "defaultAccountQueue": false
+    },
+    {
+        "queueId": "02d19fc4-29ee-4091-83fd-310d5f16267c",
+        "channelAfterContactWork": [
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Chat",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Email",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Messaging",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Voice",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            }
+        ],
+        "rona": [
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 120,
+                "channel": "Chat",
+                "queueTimer": 120
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Email",
+                "queueTimer": 30
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Messaging",
+                "queueTimer": 30
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Voice",
+                "queueTimer": 30
+            }
+        ],
+        "name": "Proactiva Ventas CDMX",
+        "afterContactWork": false,
+        "defaultAccountQueue": false
+    },
+    {
+        "queueId": "c8604320-cd96-4ae4-af52-a98039cfe33c",
+        "channelAfterContactWork": [
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Chat",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Email",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Messaging",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Voice",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            }
+        ],
+        "rona": [
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 120,
+                "channel": "Chat",
+                "queueTimer": 120
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Email",
+                "queueTimer": 30
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Messaging",
+                "queueTimer": 30
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Voice",
+                "queueTimer": 30
+            }
+        ],
+        "name": "Proactiva Ventas GDL",
+        "afterContactWork": false,
+        "defaultAccountQueue": false
+    },
+    {
+        "queueId": "d7b61306-9240-4a5b-b79e-f17cef9897b2",
+        "channelAfterContactWork": [
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Chat",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Email",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Messaging",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Voice",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            }
+        ],
+        "rona": [
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 120,
+                "channel": "Chat",
+                "queueTimer": 120
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Email",
+                "queueTimer": 30
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Messaging",
+                "queueTimer": 30
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Voice",
+                "queueTimer": 30
+            }
+        ],
+        "name": "Proactiva Ventas SLP",
+        "afterContactWork": false,
+        "defaultAccountQueue": false
+    },
+    {
+        "queueId": "11ea1171-e9c1-48a8-9983-072b6c814432",
+        "channelAfterContactWork": [
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Chat",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Email",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Messaging",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Voice",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            }
+        ],
+        "rona": [
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 120,
+                "channel": "Chat",
+                "queueTimer": 120
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Email",
+                "queueTimer": 30
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Messaging",
+                "queueTimer": 30
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Voice",
+                "queueTimer": 30
+            }
+        ],
+        "name": "Prueba de Manejo",
+        "afterContactWork": false,
+        "defaultAccountQueue": false
+    },
+    {
+        "queueId": "7d7f391e-2491-47db-9f70-f2f6278a3c62",
+        "channelAfterContactWork": [
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Chat",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Email",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Messaging",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Voice",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            }
+        ],
+        "rona": [
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 120,
+                "channel": "Chat",
+                "queueTimer": 120
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Email",
+                "queueTimer": 30
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Messaging",
+                "queueTimer": 30
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Voice",
+                "queueTimer": 30
+            }
+        ],
+        "name": "Pulsa y Voy",
+        "afterContactWork": false,
+        "defaultAccountQueue": false
+    },
+    {
+        "queueId": "526e236b-4c68-4b3e-a5a3-c4744bc3010a",
+        "channelAfterContactWork": [
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Chat",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Email",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Messaging",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Voice",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            }
+        ],
+        "rona": [
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 120,
+                "channel": "Chat",
+                "queueTimer": 120
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Email",
+                "queueTimer": 30
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Messaging",
+                "queueTimer": 30
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Voice",
+                "queueTimer": 30
+            }
+        ],
+        "name": "Refacciones",
+        "afterContactWork": false,
+        "defaultAccountQueue": false
+    },
+  {
+        "queueId": "0dd032ad-b606-46ce-98d9-1776b91ebeaf",
+        "channelAfterContactWork": [
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Chat",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Email",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Messaging",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Voice",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            }
+        ],
+        "rona": [
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 120,
+                "channel": "Chat",
+                "queueTimer": 120
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Email",
+                "queueTimer": 30
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Messaging",
+                "queueTimer": 30
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Voice",
+                "queueTimer": 30
+            }
+        ],
+        "name": "Reportar Siniestro",
+        "afterContactWork": false,
+        "defaultAccountQueue": false
+    },
+    {
+        "queueId": "fb2b6e4a-0bdd-4083-a24d-95fc6188d391",
+        "channelAfterContactWork": [
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Chat",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Email",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Messaging",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Voice",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            }
+        ],
+        "rona": [
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 120,
+                "channel": "Chat",
+                "queueTimer": 120
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Email",
+                "queueTimer": 30
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Messaging",
+                "queueTimer": 30
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Voice",
+                "queueTimer": 30
+            }
+        ],
+        "name": "Test Queue",
+        "afterContactWork": false,
+        "defaultAccountQueue": false
+    },
+    {
+        "queueId": "d84ce5c2-0442-4075-9a57-9c9c9bde06fd",
+        "channelAfterContactWork": [
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Chat",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Email",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Messaging",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Voice",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DISABLED",
+                "accountMode": "DISABLED"
+            }
+        ],
+        "rona": [
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 120,
+                "channel": "Chat",
+                "queueTimer": 120
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Email",
+                "queueTimer": 30
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Messaging",
+                "queueTimer": 30
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Voice",
+                "queueTimer": 30
+            }
+        ],
+        "name": "Vender un Auto",
+        "afterContactWork": false,
+        "defaultAccountQueue": false
+    },
+    {
+        "queueId": "a4f89e78-c088-43c8-bf23-6f9eb5a7192f",
+        "channelAfterContactWork": [
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Chat",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DEFAULT",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Email",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DEFAULT",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Messaging",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DEFAULT",
+                "accountMode": "DISABLED"
+            },
+            {
+                "timerUnits": "SECONDS",
+                "channel": "Voice",
+                "queueMode": "DISABLED",
+                "explicitQueueMode": "DEFAULT",
+                "accountMode": "DISABLED"
+            }
+        ],
+        "rona": [
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 120,
+                "channel": "Chat",
+                "queueTimer": 120
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Email",
+                "queueTimer": 30
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Messaging",
+                "queueTimer": 30
+            },
+            {
+                "timerUnits": "SECONDS",
+                "accountTimer": 30,
+                "channel": "Voice",
+                "queueTimer": 30
+            }
+        ],
+        "name": "WhatsApp Sent",
+        "afterContactWork": false,
+        "defaultAccountQueue": false
+    }
+]
+
+
+
+
+
+
