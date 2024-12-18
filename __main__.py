@@ -23,12 +23,31 @@ if creation_file.is_file() and updates_file.is_file():
 
     # Creation of the user
     try:
+        found = False
         with open(creation_file, mode='r', encoding='utf-8') as file:
             reader = csv.reader(file)
             next(reader)
             for row in reader:
                 data = json.loads(row[6])
-                print(data)
+                if data["loginId"] == email:
+                    found = True
+                    print(f"Creado por: {row[0]}")
+                    print(f"Fecha de creación: {row[3]}")
+                    if data["features"].get("matching"):
+                        # Print queues if exists
+                        if data["features"]["matching"]["queues"]:
+                            print(f"Colas:")
+                            for cola in data["features"]["matching"]["queues"]:
+                                print(f"- {cola["queueId"]}")
+                        else:
+                            print(f"There are not queues registered at creation time")
+                        # Print attributes if exists
+                        if data["features"]["matching"]["attributes"]:
+                            print(f"Atributos:")
+                            for attribute in data["features"]["matching"]["attributes"]:
+                                print(f"- {attribute}")
+            if not found:
+                print(f"User not found")
     except FileNotFoundError:
         print(f"Error: El archivo '{creation_file}' no existe")
     except PermissionError:
